@@ -32,7 +32,7 @@ Technology can facilitate a solution to the lack of Tire Pressure Monitoring Sys
 
 ### The idea
 
-We present a new AI based mobile application that utilizes the mobile camera to capture and Open CV package to estimate the tire pressure and predicts the percentage drop in fuel efficiency if the vehicle is driven with the current state of the tires. Our solution also recommends nearest gas stations and mechanics.
+We present a new AI based mobile application that utilizes the mobile camera to capture, Open CV package to estimate the tire pressure and Machine Learning models to predict the percentage drop in fuel efficiency if the vehicle is driven with the current state of the tires. Our solution also recommends nearest gas stations and mechanics.
 
 
 ## Demo video
