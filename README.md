@@ -28,7 +28,7 @@ Cars are spewing out up to 306,000 extra tons of carbon dioxide per year because
 
 ### How can technology help?
 
-Technology can facilitate solve the problem of lack of Tire Pressure Monitoring Systems in India. Data-driven Machine Learning and Image Recognition approaches can be used to analyze historical data and estimate the tire pressures in our vehicles.
+Technology can facilitate the solution to the lack of Tire Pressure Monitoring Systems in India. Data-driven Machine Learning and Image Recognition approaches can be used to analyze historical data and estimate the tire pressures in our vehicles.
 
 ### The idea
 
