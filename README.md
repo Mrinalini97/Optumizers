@@ -54,20 +54,6 @@ We present a new AI based mobile application that utilizes the mobile camera to 
 
 [More detail is available here](./docs/DESCRIPTION.md)
 
-## Project roadmap
-
-The project currently does the following things.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
-
-See below for our proposed schedule on next steps after Call for Code 2021 submission.
-
-![Roadmap](./images/roadmap.jpg)
-
 ## Getting started
 
 In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
