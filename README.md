@@ -44,10 +44,11 @@ We present a new AI based mobile application that utilizes the mobile camera to 
 
 ![Video transcription/translation app](https://github.com/Mrinalini97/Optumizers/blob/main/architecture.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The user navigates to the app and uploads an image file.
+2. Open CV processes the image and provides the tire radii measurement to Random Forest Classifier.
+3. The Classification model is deployed on IBM Watson Machine Learning platform.
+4. Flask API receives the predicted state of input tire image, and outputs the percentage drop in fuel efficiency.
+5. The user can also access the Google Maps API and locate the nearest gas station or mechanics.
 
 ## Long description
 
