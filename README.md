@@ -10,8 +10,6 @@
     - [The idea](#the-idea)
   - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
-  - [Long description](#long-description)
-  - [Getting started](#getting-started)
   - [Live demo](#live-demo)
   - [Built with](#built-with)
   - [Contributing](#contributing)
@@ -48,18 +46,6 @@ We present a new AI based mobile application that utilizes the mobile camera to 
 3. The Classification model is deployed on IBM Watson Machine Learning platform.
 4. Flask API receives the predicted state of input tire image, and outputs the percentage drop in fuel efficiency.
 5. The user can also access the Google Maps API and locate the nearest gas station or mechanics.
-
-## Long description
-
-[More detail is available here](./docs/DESCRIPTION.md)
-
-## Getting started
-
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
 
 ## Live demo
 
