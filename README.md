@@ -35,7 +35,7 @@ We present a new AI based mobile application that utilizes the mobile camera to 
 
 ## Demo video
 
-![Watch the video](https://github.com/Mrinalini97/Optumizers/blob/main/Thumbnaiil.png)(https://www.youtube.com/watch?v=Cd804RbV8kg)
+[![Watch the video](https://img.youtube.com/vi/Cd804RbV8kg/0.jpg)](https://www.youtube.com/watch?v=Cd804RbV8kg)
 
 ## The architecture
 
