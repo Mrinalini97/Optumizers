@@ -35,7 +35,7 @@ We present a new AI based mobile application that utilizes the mobile camera to 
 
 ## Demo video
 
-[![Watch the video]](https://youtu.be/Cd804RbV8kg)
+[![Watch the video](https://youtu.be/Cd804RbV8kg.jpg)](https://youtu.be/Cd804RbV8kg)
 
 ## The architecture
 
